@@ -1,4 +1,6 @@
-# Clarity and accuracy
+# First story critique
+
+### Clarity and accuracy
 
 * 4
   * The central insight of this story is the constant rise of the transfer fees of soccer players along the years. The headline summarizes well the main point and, along with the story, the matter is discussed with further details.
@@ -12,12 +14,12 @@
 * 4
   * The story makes a point (the rising trend of the transfer fees of soccer players), proves it giving several examples and charts, and then does a prediction for the future. Although it mentions why this trend possibly started, which is great, it does not give reasons of why this is still happening and why those numbers are becoming extremely high, with no perspective of stabilization. I think the main reason this is happening is that soccer is becoming more popular in countries with a huge market such as the US and, most recently, China. Therefore, the high values reported are mainly due to TV rights, marketing and brands sponsoring the players. In order to be more accurate and precise, it would be good if it could be included in the article how much the player and the club will earn from sponsors, TV rights, etc. for each transaction.
 
-# Type and Color
+### Type and Color
 
 * 4
   * Although the graphs look good, I believe changing the color gray of the font of the numbers and labels to a darker color would be a better choice. By doing that, I believe it would make more clear to the reader to easily spot and numbers and understand the trend.
 
-# Creativity
+### Creativity
 
 * 3
   * The story was very traditional on its formatting. Under the title, there is a big photo of the Champions League 2016 final, showing Lionel Messi, the current most valuable soccer player, who is mentioned in the story. And that’s it. No more elements to make the story any different from others. However, this is not a problem.
