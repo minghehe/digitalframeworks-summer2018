@@ -8,6 +8,30 @@ Since 2010 World Cup they use FIFA Soccer to predict the winner of the tournamen
 
 ### Story critique
 
+#### Clarity and accuracy
+
+* 4
+  * The main point of the article is quickly identified: EA Sports predicted the winner of 2018 World Cup, which was also present in the headline.
+* 3
+  * The article contains little information about the prediction (basically just the semi-final and final matches). Therefore, it is not presented data so that the reader could go through it. A good way better show the prediction would be displaying the full brackets of the competition.
+* 4
+  * The information about the prediction made by EA Sports was obtained directly from their website. However, the article did not show any links to the original source. Moreover, although it mentioned that the game producer has successfully predicted other major sports competitions, no further details are given.
+
+#### Quality
+
+* 3
+  * In order to improve the story, it would be interesting to show, firstly, the full brackets of the prediction for the 2018 World Cup. Similarly, show the predictions for the years of 2010 and 2014 and make a comparison with the actual results. Then, with all this data on hands, make a conclusion regarding the simulation ability of EA Sports engine, as well as mentioning how this engine is calibrated.
+  
+  
+#### Type and Color
+
+* This story does not contain any graphics.
+
+#### Creativity
+
+* 3
+  * The story was very traditional on its formatting. It contains a picture from the FIFA video game under the title, showing the starts of France's team, which is predicted to be the champion of the World Cup.
+
 # Story idea 2
 
 When the transfer window opens at end of each season, we see several millionaire transactions of soccer players from clubs. Some transfers are worthwhile, when the player contributes great achievements to their teams. While others are not, and the deals are quickly undone in few months. Then, the question arises: how to estimate the value of a player? Is Messi really worth $273 million? Cristiano Ronaldo left Real Madrid and going to Juventus, with a transfer fee of $117.5 million and additional payments of $14.1 million to Ronaldo’s previous clubs. Which factors influence in a player’s value? 
