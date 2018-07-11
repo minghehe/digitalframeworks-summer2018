@@ -7,7 +7,7 @@
 * 5
   * Most of the numbers related to the transaction fees of soccer players are the ones published by the clubs for the media. However, it is known that, in some cases, there is a clause of secrecy in these kinds of transfer negotiations, mostly because it’s normal to divide the amount of money got from selling a soccer player with the teams that formed him. Therefore, those values are not entirely accurate. In order to validate them, the only possible way would be contacting one of the two parts. As mentioned before, the article provided the source of the data, and also explained what was needed to the audience to understand the information.
 
-# Quality
+### Quality
 
 * 4
   * The story makes a point (the rising trend of the transfer fees of soccer players), proves it giving several examples and charts, and then does a prediction for the future. Although it mentions why this trend possibly started, which is great, it does not give reasons of why this is still happening and why those numbers are becoming extremely high, with no perspective of stabilization. I think the main reason this is happening is that soccer is becoming more popular in countries with a huge market such as the US and, most recently, China. Therefore, the high values reported are mainly due to TV rights, marketing and brands sponsoring the players. In order to be more accurate and precise, it would be good if it could be included in the article how much the player and the club will earn from sponsors, TV rights, etc. for each transaction.
