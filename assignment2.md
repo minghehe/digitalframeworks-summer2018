@@ -9,7 +9,8 @@ Here are the data points I’ll be collecting:
 * Yellow card. If a player easily get a yellow card, means he will easily put the team in the risk. 
 * Red card. If a player easily get a red card, means he is not a reliable. 
 * SpG(shots per game). It means the player has lower chance to score. 
-* PS% (pass success percentage). It means the player has better skill. 
+* PS% (pass success percentage). It means the player has better skill.
+* PWC (Performance in the World Cup 2018). It means how far his national team went in the World Cup.
 
 
 I will collect the data of major leagues in the world from the website:
@@ -18,4 +19,4 @@ https://www.whoscored.com/Regions/252/Tournaments/2/Seasons/6829/Stages/15151/Pl
 
 I am trying to contact EA Sports to give me a hint on how they do simulation with the data.
 
-My data set (in Google Sheets): https://docs.google.com/spreadsheets/d/1zqXaRgkRkyjLiB2cDr_HwoNKrrhia54sfVJNWy7oiXQ/edit?usp=sharing.
+My data set (in Google Sheets): https://docs.google.com/spreadsheets/d/1fBBBiits5Id4ArpN_GwRQrjmK0WCEoVEWLJVwB0ZoI0/edit#gid=0
