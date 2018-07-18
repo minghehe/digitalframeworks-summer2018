@@ -13,6 +13,9 @@ Here are the data points I’ll be collecting:
 
 
 I will collect the data of major leagues in the world from the website:
+
 https://www.whoscored.com/Regions/252/Tournaments/2/Seasons/6829/Stages/15151/PlayerStatistics/England-Premier-League-2017-2018.
+
 I am trying to contact EA Sports to give me a hint on how they do simulation with the data.
+
 My data set (in Google Sheets): https://docs.google.com/spreadsheets/d/1zqXaRgkRkyjLiB2cDr_HwoNKrrhia54sfVJNWy7oiXQ/edit?usp=sharing.
