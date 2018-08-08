@@ -9,6 +9,6 @@
     3. Freeze panels, to easily spot the headers of the columns and make comparisons
     4. Used filter, to organize the players according to their position
     5. Applied several descriptive statistics formulas to have an overall view of the data. These formulas included: AVERAGE, MEDIAN, STDEV (standard deviation), MIN, MAX. These formulas were applied on the entire dataset, as well as the sub datasets created in step 2
-    6. Make graphs (scatter plots), to easily observe the tendency of the data, for the entire dataset, as well as for the sub datasets created in step 2
- 4. According to the data on soccernews.com, the transit fee has a correlation with the position of players. The more forward a player on a soccer field, the more expensive the transit fee was. Despite the fact that soccer is a game of 11, and every position is equally important for a match.
-Headline: The performance of a soccer player is not the only decisive factor for the transit fee.
+    6. Made graphs (scatter plots), to easily observe the tendency of the data, for the entire dataset, as well as for the sub datasets created in step 2
+ 4. Headline: The performance of a soccer player is not the only decisive factor for the transit fee.
+Nut Graf: According to the data on soccernews.com, the transit fee has a correlation with the position of players. The more forward a player on a soccer field, the more expensive the transit fee was. Despite the fact that soccer is a game of 11, and every position is equally important for a match.
