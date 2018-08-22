@@ -12,5 +12,5 @@
     7. Then, use SUBTOTAL function, choosing to show the SUM of all the rows that were previously selected in step 6.
     8. With the sums of both candidates, make the comparison.
 
-4. Hed: Data scientists plays a bigger in presidential election than candidates themselves. 
+4. Headline: Data scientists plays a bigger in presidential election than candidates themselves. 
 Nut graf: Donald Trump’s spending on data in election two years ago was seven times more than Hillary’s.
