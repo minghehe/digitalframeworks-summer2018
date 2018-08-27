@@ -1,4 +1,4 @@
-# Soccer players' transit fee is getting higher while determinators are adding to their value list
+# Soccer players' transit fee is getting higher and is affected by more factors
 
 Each summer, millions of dollars changed hands, as the world’s top clubs were chasing players for the coming seasons. Though it is a major factor, a soccer player’s performance is not the only thing matters when measuring his transit fee. 
 
