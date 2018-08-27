@@ -10,6 +10,7 @@ The former Real Madrid attacker, 33-year-old Cristiano Ronaldo moved to Juventus
 
 However, Szymanski noticed the amount paid for buying Ronaldo would be higher five years ago because he is not at the best age. According to the data from SoccerNews.com, players around 25-year-old have the highest transfer fee. Teams only pay a hefty price for a player who has proven ability and who has years left in his career, Szymanski explained. 
 
+![graphage](0963BEB3-1EA4-4382-A1E7-1E38721B4FCD.png)
 Graph (Age)  
 
 Szymanski said, even for a player with proved ability, a team won’t pay a high transit fee if his career’s remaining time is short. However, the good fitness record and reputation for not prone to injury preserved Ronaldo’s value, because it’s likely for him to perform at his highest level for another three or four years, Szymanski said.
