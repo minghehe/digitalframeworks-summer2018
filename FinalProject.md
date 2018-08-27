@@ -11,7 +11,7 @@ The former Real Madrid attacker, 33-year-old Cristiano Ronaldo moved to Juventus
 However, Szymanski noticed the amount paid for buying Ronaldo would be higher five years ago because he is not at the best age. According to the data from SoccerNews.com, players around 25-year-old have the highest transfer fee. Teams only pay a hefty price for a player who has proven ability and who has years left in his career, Szymanski explained. 
 
 ![graphage](0963BEB3-1EA4-4382-A1E7-1E38721B4FCD.png)
-Graph (Age)  
+  
 
 Szymanski said, even for a player with proved ability, a team won’t pay a high transit fee if his career’s remaining time is short. However, the good fitness record and reputation for not prone to injury preserved Ronaldo’s value, because it’s likely for him to perform at his highest level for another three or four years, Szymanski said.
 
@@ -22,7 +22,7 @@ However, Kylian Mbappé, the 19-year-old French forward, transferred to Paris Sa
 The player’s position on the field is also a determiner for his transit fee. The attackers that are at the most forward positions in a team always have a higher transit fee. According to the data from SoccerNews.com, average transit fee for attackers in season 2017-2018 was 30.5 percent higher than for defenders. 
 
 ![graphage](49A85932-4F62-4512-9664-3570B7A1F31B.png)
-Graph (Position) 
+
 
 “The scarcest talent in soccer is scoring goals. That's the thing that wins you the game,” said Szymanski. “The best players are always going into the attacking roles.”
 
@@ -40,7 +40,6 @@ The big clubs are usually forced to pay more for a player, said Herman. Deals be
 
 
 ![graphage](64B00ADD-947F-46D6-8F19-3355E7472741.png)
-Graph (increasing trend for transit fee)
 
  
 The global transfer fee for players increases around ten-fold since 1995, with a total fee of more than $6 billion in 2017, according to Andrew Orsatti, the spokesman for Football’s International Players’ Union. In the past ten years, even amid the effects of a global recession, transit fee has gone from $2.9 billion to $6.37 billion approximately, according to Orsatti. 
