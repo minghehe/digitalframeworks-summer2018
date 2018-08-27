@@ -1,5 +1,5 @@
 
-In every summer, millions of dollars changed hands, as the world’s top clubs were chasing players for the coming seasons. Though it is a major factor, a soccer player’s performance is not the only thing matters when measuring his transit fee. 
+Each summer, millions of dollars changed hands, as the world’s top clubs were chasing players for the coming seasons. Though it is a major factor, a soccer player’s performance is not the only thing matters when measuring his transit fee. 
 
 A player’s transit fee directly reflects his relative value to a team, said Rodney Fort, a sports management professor at the University of Michigan. A soccer team that wants to buy a player needs to pay compensation for the player’s current club. A transit fee is negotiated by the two companies, which includes the payment for the team and the salary for the player. The original contract between the player and the club is then terminated, and a new one will be written with the new club. When involving more than one buyers for a player, the transit fee is usually lifted because the player will likely move to the team that pays him a higher salary, said Fort.
 
