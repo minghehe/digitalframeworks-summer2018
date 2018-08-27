@@ -21,6 +21,7 @@ However, Kylian Mbappé, the 19-year-old French forward, transferred to Paris Sa
 
 The player’s position on the field is also a determiner for his transit fee. The attackers that are at the most forward positions in a team always have a higher transit fee. According to the data from SoccerNews.com, average transit fee for attackers in season 2017-2018 was 30.5 percent higher than for defenders. 
 
+![graphage](49A85932-4F62-4512-9664-3570B7A1F31B.png)
 Graph (Position) 
 
 “The scarcest talent in soccer is scoring goals. That's the thing that wins you the game,” said Szymanski. “The best players are always going into the attacking roles.”
@@ -37,6 +38,8 @@ Many times, a player’s transit fee is dictated by the club to eliminate anybod
 
 The big clubs are usually forced to pay more for a player, said Herman. Deals between clubs, such as Manchester United, one of the most famous clubs in Premier League, tend to drive up from the player’s actual value because big teams are usually affluent and can afford a higher price. But a deal like it not always can be closed, said Herman. Harry Maguire, a Leicester defender who was targeted by Manchester United, was involved in the summer transfer market. Based on his terrific performance at the finished World Cup, the transit fee for Maguire was set to 75 million pounds, which could be the highest price for purchasing a defender. However, Herman said Maguire is not worth the price and the deal went nowhere. 
 
+
+![graphage](64B00ADD-947F-46D6-8F19-3355E7472741.png)
 Graph (increasing trend for transit fee)
 
  
